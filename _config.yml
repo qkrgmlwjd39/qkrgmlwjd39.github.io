@@ -6,28 +6,28 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Heejung Park
+title: Ph.D student in DGIST, Korea
+email: heejungpark@dgist.ac.kr or heejungp@stanford.edu
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# # Social links
+# twitter_username: facespics
+# github_username:  sproogen
+# # stackoverflow_username: "00000001"
+# # dribbble_username: jekyll
+# # facebook_username: jekyll
+# # flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
+# # xing_username: jekyll
+# # pinterest_username: jekyll
+# youtube_username: globalmtb
+# # googleplus_username: +jekyll
+# # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -48,9 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's <mark>Heejung</mark> and I'm a Ph.D student in <a href="https://sites.google.com/view/mispl/home" target="_blank"> Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST) advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank"> Prof.Sang Hyun Park</a>.
+I have extensive experience in medical image processing, specializing in both image registration and segmentation. My current research focuses on solving the challenge of medical image segmentation, specifically addressing the privacy concerns associated with medical data. I am employing federated learning method to develop solutions for organ segmentation, aiming to enhance both accuracy and privacy in medical image.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mark>, <mark>Medical Image Processing</mark>
+
 
 content:
   - title: Projects # Title for the section
