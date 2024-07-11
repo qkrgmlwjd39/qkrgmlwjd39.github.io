@@ -16,7 +16,7 @@ darkmode: false
 
 # # Social links
 # twitter_username: facespics
-github_username:  qkrgmlwjd39
+github_username: qkrgmlwjd39
 # # stackoverflow_username: "00000001"
 # # dribbble_username: jekyll
 # # facebook_username: jekyll
@@ -47,8 +47,7 @@ github_username:  qkrgmlwjd39
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's <mark>Heejung</mark> and I'm a Ph.D student in <a href="https://sites.google.com/view/mispl/home" target="_blank"> Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST) advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank"> Prof.Sang Hyun Park</a>.
+about_content: Hi, my name's <mark>Heejung</mark> and I'm a Ph.D student in <a href="https://sites.google.com/view/mispl/home" target="_blank"> Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST) advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank"> Prof.Sang Hyun Park</a>.
 I have extensive experience in medical image processing, specializing in both image registration and segmentation. My current research focuses on solving the challenge of medical image segmentation, specifically addressing the privacy concerns associated with medical data. I am employing federated learning method to develop solutions for organ segmentation, aiming to enhance both accuracy and privacy in medical image.
 
 Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mark>, <mark>Medical Image Processing</mark>
@@ -79,11 +78,11 @@ Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mar
     content:
       - layout: left
         caption: 2020 - Present
-        sub_title:  <b>Integrated MS&Ph.D Candidate</b>, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea. 
+        sub_title: <b>Integrated MS&Ph.D Candidate</b>, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea. 
        
       - layout: left
         caption: 2015 - 2020
-        sub_title:  <b>Bachelor of Engineering</b>, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
+        sub_title: <b>Bachelor of Engineering</b>, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
     
         # quote: >
           # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -95,11 +94,11 @@ Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mar
       - layout: left
         # title: 
         caption: 2024.07 - 2024.12
-        sub_title:  <b>Visiting Scholar</b>, <a href="https://cnslab.stanford.edu/" target="_blank"> CNS Lab</a>, Stanford Univ, USA. 
+        sub_title: <b>Visiting Scholar</b>, <a href="https://cnslab.stanford.edu/" target="_blank"> CNS Lab</a>, Stanford Univ, USA. 
 
       - layout: left
         caption: 2018.03 - 2018.12
-        sub_title:  <b>Undergraduate Group Research Program (UGRP)<\b>, <a href="http://abc.dgist.ac.kr/" target="_blank"> ABC Lab</a>, DGIST, South Korea. 
+        sub_title: <b>Undergraduate Group Research Program (UGRP)<\b>, <a href="http://abc.dgist.ac.kr/" target="_blank"> ABC Lab</a>, DGIST, South Korea. 
 
  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,17 +106,17 @@ Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mar
       - layout: left
         papertitle: Communication Efficient Federated Learning for Multi-Organ Segmentation via Knowledge Distillation with Image Synthesis
         authors: Kim, S.*, <b>Park, H.*<\b>, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        publisher : Under Review
+        publisher: Under Review
       
       - layout: left
         papertitle: Federated Learning with Knowledge Distillation for Multi-organ Segmentation with Partially Labeled Datasets. 
         authors: Kim, S.*, <b>Park, H.*<\b>, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        publisher : Medical Image Analysis (MediA, IF 10.9, JCR<5%)
+        publisher: Medical Image Analysis (MediA, IF 10.9, JCR<5%)
 
       - layout: left
         papertitle: A Meta-Learning Approach for Medical Image Registration 
         authors: <b>Park, H*.<\b>, Lee, G. M*., Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H.
-        publisher : IEEE 19th International Symposium on Biomedical Imaging (ISBI)
+        publisher: IEEE 19th International Symposium on Biomedical Imaging (ISBI)
 
   - title: Awards
     layout: text
