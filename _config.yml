@@ -1,5 +1,5 @@
 # Site
-repository: https://qkrgmlwjd39.github.io
+repository: qkrgmlwjd39.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,7 +8,8 @@ version: 2
 # Personal info
 name: Heejung Park
 title: Ph.D student in DGIST, South Korea
-email: heejungpark@dgist.ac.kr or heejungp@stanford.edu
+email: heejungpark@dgist.ac.kr 
+# or heejungp@stanford.edu
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
