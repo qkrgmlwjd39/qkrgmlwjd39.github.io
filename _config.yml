@@ -47,7 +47,7 @@ github_username: qkrgmlwjd39
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/visa_heejung.jpg
 about_content: | 
  Hi, my name's <mark>Heejung</mark> and I'm a Ph.D. student in the <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at the Daegu Gyeongbuk Institute of Science and Technology (DGIST), advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Prof. Sang Hyun Park</a>. I have extensive experience in medical image processing, specializing in both <mark>image registration</mark> and <mark>segmentation</mark>. My current research focuses on solving the challenge of medical image segmentation, specifically addressing the privacy concerns associated with medical data. I am employing the <mark>federated learning</mark> method to develop solutions for organ segmentation, aiming to enhance both accuracy and privacy in medical imaging.
   Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mark>, <mark>Medical Image Processing</mark>
@@ -81,16 +81,16 @@ content:
     content:
       - layout: top-middle
         sub_title: Communication Efficient Federated Learning for Multi-Organ Segmentation via Knowledge Distillation with Image Synthesis
-        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        description: Under Review
+        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H. |
+        Under Review
       - layout: top-middle
         sub_title: Federated Learning with Knowledge Distillation for Multi-organ Segmentation with Partially Labeled Datasets. 
-        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        description: Medical Image Analysis (MediA, IF 10.9, JCR<5%)
+        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H. |
+        Medical Image Analysis (MediA, IF 10.9, JCR<5%)
       - layout: top-middle
         sub_title: A Meta-Learning Approach for Medical Image Registration 
-        caption: Park, H.*, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H.
-        description: IEEE 19th International Symposium on Biomedical Imaging (ISBI)
+        caption: Park, H.*, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H. |
+        IEEE 19th International Symposium on Biomedical Imaging (ISBI)
 
   - title: Awards
     layout: text
