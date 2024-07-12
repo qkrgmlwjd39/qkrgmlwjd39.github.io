@@ -77,20 +77,19 @@ content:
         quote: Undergraduate Group Research Program (UGRP), <a href="http://abc.dgist.ac.kr/" target="_blank">ABC Lab</a>, DGIST, South Korea.
   - title: Publications
     layout: list
+    class: publications
     content:
       - layout: left
         sub_title: Communication Efficient Federated Learning for Multi-Organ Segmentation via Knowledge Distillation with Image Synthesis
-        caption: Kim, S.*, <b>Park, H.*</b>, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
+        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
         description: Under Review
-      
       - layout: left
         sub_title: Federated Learning with Knowledge Distillation for Multi-organ Segmentation with Partially Labeled Datasets. 
-        caption: Kim, S.*, <b>Park, H.*</b>, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
+        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
         description: Medical Image Analysis (MediA, IF 10.9, JCR<5%)
-
       - layout: left
         sub_title: A Meta-Learning Approach for Medical Image Registration 
-        caption: <b>Park, H.*</b>, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H.
+        caption: Park, H.*, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H.
         description: IEEE 19th International Symposium on Biomedical Imaging (ISBI)
 
   - title: Awards
