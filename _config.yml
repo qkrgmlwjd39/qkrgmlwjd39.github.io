@@ -47,7 +47,7 @@ github_username: qkrgmlwjd39
 
 # About Section
 # about_title: About Me
-about_profile_image: images/visa_heejung.jpg
+about_profile_image: images/hj_profile.jpg
 about_content: | 
  Hi, my name's <mark>Heejung</mark> and I'm a Ph.D. student in the <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at the Daegu Gyeongbuk Institute of Science and Technology (DGIST), advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Prof. Sang Hyun Park</a>. I have extensive experience in medical image processing, specializing in both <mark>image registration</mark> and <mark>segmentation</mark>. My current research focuses on solving the challenge of medical image segmentation, specifically addressing the privacy concerns associated with medical data. I am employing the <mark>federated learning</mark> method to develop solutions for organ segmentation, aiming to enhance both accuracy and privacy in medical imaging.
   Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mark>, <mark>Medical Image Processing</mark>
