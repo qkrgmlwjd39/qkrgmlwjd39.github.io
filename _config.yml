@@ -22,11 +22,11 @@ github_username: qkrgmlwjd39
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -57,12 +57,10 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
-        caption: 2020 - Present
+      - caption: 2020 - Present
         sub_title: <b>Integrated MS&Ph.D Candidate</b>, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
        
-      - layout: left
-        caption: 2015 - 2020
+      - caption: 2015 - 2020
         sub_title: <b>Bachelor of Engineering</b>, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
 
   - title: Experience
