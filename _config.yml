@@ -49,7 +49,7 @@ github_username: qkrgmlwjd39
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | 
-  Hi, my name's <mark>Heejung</mark> and I'm a Ph.D student in <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST) advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Prof. Sang Hyun Park</a>. I have extensive experience in medical image processing, specializing in both image registration and segmentation. My current research focuses on solving the challenge of medical image segmentation, specifically addressing the privacy concerns associated with medical data. I am employing federated learning method to develop solutions for organ segmentation, aiming to enhance both accuracy and privacy in medical image.
+  Hi, my name's <mark>Heejung</mark> and I'm a Ph.D student in <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST) advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Prof. Sang Hyun Park</a>. I have extensive experience in medical image processing, specializing in both <mark>image registration<\mark> and <mark>segmentation<\mark>. My current research focuses on solving the challenge of medical image segmentation, specifically addressing the privacy concerns associated with medical data. I am employing <mark>federated learning<\mark> method to develop solutions for organ segmentation, aiming to enhance both accuracy and privacy in medical image.
 
   Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mark>, <mark>Medical Image Processing</mark>
 
@@ -59,23 +59,19 @@ content:
     content:
       - layout: top-right
         caption: 2020 - Present
-        sub_title: <b>Integrated MS&Ph.D Candidate</b>, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
-       
+        sub_title: Integrated MS&Ph.D Candidate, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
       - layout: top-right
         caption: 2015 - 2020
-        sub_title: <b>Bachelor of Engineering</b>, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
-
+        sub_title: Bachelor of Engineering, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
   - title: Experience
     layout: list
     content:
       - layout: left
         caption: 2024.07 - 2024.12
-        sub_title: <b>Visiting Scholar</b>, <a href="https://cnslab.stanford.edu/" target="_blank">CNS Lab</a>, Stanford Univ, USA. 
-
+        sub_title: Visiting Scholar, <a href="https://cnslab.stanford.edu/" target="_blank">CNS Lab</a>, Stanford Univ, USA. 
       - layout: left
         caption: 2018.03 - 2018.12
-        sub_title: <b>Undergraduate Group Research Program (UGRP)</b>, <a href="http://abc.dgist.ac.kr/" target="_blank">ABC Lab</a>, DGIST, South Korea.
-
+        sub_title: Undergraduate Group Research Program (UGRP), <a href="http://abc.dgist.ac.kr/" target="_blank">ABC Lab</a>, DGIST, South Korea.
   - title: Publications
     layout: list
     content:
