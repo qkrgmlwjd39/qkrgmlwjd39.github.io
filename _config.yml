@@ -68,11 +68,13 @@ content:
     layout: list
     content:
       - layout: left
-        caption: 2024.07 - 2024.12
-        sub_title: Visiting Scholar, <a href="https://cnslab.stanford.edu/" target="_blank">CNS Lab</a>, Stanford Univ, USA. 
+        border: weak
+        sub_title: 2024.07 - 2024.12
+        quote: Visiting Scholar, <a href="https://cnslab.stanford.edu/" target="_blank">CNS Lab</a>, Stanford Univ, USA. 
       - layout: left
-        caption: 2018.03 - 2018.12
-        sub_title: Undergraduate Group Research Program (UGRP), <a href="http://abc.dgist.ac.kr/" target="_blank">ABC Lab</a>, DGIST, South Korea.
+        border: weak
+        sub_title: 2018.03 - 2018.12
+        quote: Undergraduate Group Research Program (UGRP), <a href="http://abc.dgist.ac.kr/" target="_blank">ABC Lab</a>, DGIST, South Korea.
   - title: Publications
     layout: list
     content:
