@@ -77,17 +77,17 @@ content:
       - layout: top-right
         sub_title: Communication Efficient Federated Learning for Multi-Organ Segmentation via Knowledge Distillation with Image Synthesis
         caption: Kim, S.*, <b>Park, H.*</b>, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        caption: Under Review
+        description: Under Review
       
       - layout: top-right
         sub_title: Federated Learning with Knowledge Distillation for Multi-organ Segmentation with Partially Labeled Datasets. 
         caption: Kim, S.*, <b>Park, H.*</b>, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        caption: Medical Image Analysis (MediA, IF 10.9, JCR<5%)
+        description: Medical Image Analysis (MediA, IF 10.9, JCR<5%)
 
       - layout: top-right
         sub_title: A Meta-Learning Approach for Medical Image Registration 
         caption: <b>Park, H.*</b>, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H.
-        caption: IEEE 19th International Symposium on Biomedical Imaging (ISBI)
+        description: IEEE 19th International Symposium on Biomedical Imaging (ISBI)
 
   - title: Awards
     layout: text
