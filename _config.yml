@@ -58,12 +58,12 @@ content:
     content:
       - layout: left
         border: weak
-        title: 2020 - Present
+        sub_title: 2020 - Present
         quote: <b>Integrated MS&Ph.D Candidate</b>, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
       - layout: left
         border: weak
-        title: 2015 - 2020
-        quote: Bachelor of Engineering, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
+        sub_title: 2015 - 2020
+        quote: <b>Bachelor of Engineering</b>, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
   - title: Experience
     layout: list
     content:
