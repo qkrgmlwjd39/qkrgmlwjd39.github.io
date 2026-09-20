@@ -84,7 +84,10 @@ content:
       - layout: left
         border: weak
         sub_title: 2025.07
-        quote: <b>Method and Apparatus for Generating an Image Registration Model Based on Meta-Learning</b><br>Korean Patent No. 10-2833517 (Application No. 10-2021-0144155). Registered July 9, 2025.<br>Inventors: Sang Hyun Park, Soopil Kim, Heejung Park, and Gyeongmin Lee.
+        quote: >-
+          <b>Method and Apparatus for Generating an Image Registration Model Based on Meta-Learning</b><br>
+          Korean Patent No. 10-2833517 (Application No. 10-2021-0144155). Registered July 9, 2025.<br>
+          Inventors: Sang Hyun Park, Soopil Kim, Heejung Park, and Gyeongmin Lee.
 
   - title: Awards
     layout: list
