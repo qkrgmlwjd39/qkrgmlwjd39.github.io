@@ -7,50 +7,25 @@ version: 2
 
 # Personal info
 name: Heejung Park
-title: Ph.D student in DGIST, South Korea
+title: Ph.D. Candidate at DGIST, South Korea
 email: heejungpark@dgist.ac.kr
-# or heejungp@stanford.edu
-# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: facespics
 github_username: qkrgmlwjd39
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-# linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/hj_profile.jpg
-about_content: | 
- Hi, my name's <mark>Heejung</mark> and I'm a Ph.D. student in the <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at the Daegu Gyeongbuk Institute of Science and Technology (DGIST), advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Prof. Sang Hyun Park</a>. I have extensive experience in medical image processing, specializing in both <mark>image registration</mark> and <mark>segmentation</mark>. My current research focuses on solving the challenge of medical image segmentation, specifically addressing the privacy concerns associated with medical data. I am employing the <mark>federated learning</mark> method to develop solutions for organ segmentation, aiming to enhance both accuracy and privacy in medical imaging.
-  Keywords: <mark>Federated Learning</mark>, <mark>Medical Image Registration</mark>, <mark>Medical Image Processing</mark>
+about_content: |
+  Hi, my name is <mark>Heejung Park</mark>, and I am a Ph.D. candidate in the <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST), advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Prof. Sang Hyun Park</a>.
+
+  My research focuses on privacy-preserving and data-efficient learning for medical image analysis. In particular, I study <mark>federated learning</mark>, <mark>semi-supervised learning</mark>, and <mark>retrieval-augmented learning</mark> for medical image segmentation under heterogeneous and limited-label environments.
+
+  My broader research interests include medical image segmentation, medical image registration, and foundation models for medical AI.
+
+  Keywords: <mark>Federated Learning</mark>, <mark>Semi-Supervised Learning</mark>, <mark>Retrieval-Augmented Learning</mark>, <mark>Medical Image Analysis</mark>
 
 content:
   - title: Education
@@ -59,38 +34,47 @@ content:
       - layout: left
         border: weak
         sub_title: 2020 - Present
-        quote: <b>Integrated MS&Ph.D Candidate</b>, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
+        quote: <b>Integrated MS&Ph.D. Candidate</b>, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
       - layout: left
         border: weak
         sub_title: 2015 - 2020
         quote: <b>Bachelor of Engineering</b>, School of Undergraduate Studies, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea.
+
   - title: Experience
     layout: list
     content:
       - layout: left
         border: weak
         sub_title: 2024.07 - 2024.12
-        quote: Visiting Scholar, <a href="https://cnslab.stanford.edu/" target="_blank">CNS Lab</a>, Stanford Univ, USA. 
+        quote: Visiting Scholar, <a href="https://cnslab.stanford.edu/" target="_blank">CNS Lab</a>, Stanford University, USA.
       - layout: left
         border: weak
         sub_title: 2018.03 - 2018.12
         quote: Undergraduate Group Research Program (UGRP), <a href="http://abc.dgist.ac.kr/" target="_blank">ABC Lab</a>, DGIST, South Korea.
+
   - title: Publications
     layout: list
     class: publications
     content:
       - layout: top-middle
-        sub_title: Communication Efficient Federated Learning for Multi-Organ Segmentation via Knowledge Distillation with Image Synthesis
-        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        quote: Under Review
+        sub_title: Retrieval-Guided Semi-Supervised Federated Learning for Medical Image Segmentation
+        caption: Park, H., Kim, S., Arsalane, W., An, S., & Park, S. H.
+        quote: <b>MICCAI 2026</b> — Accepted
+
       - layout: top-middle
-        sub_title: Federated Learning with Knowledge Distillation for Multi-organ Segmentation with Partially Labeled Datasets. 
-        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
-        quote: Medical Image Analysis (MediA, IF 10.9, JCR<5%)
+        sub_title: Communication Efficient Federated Learning for Multi-Organ Segmentation via Knowledge Distillation With Image Synthesis
+        caption: Kim, S.*, Park, H.*, Chikontwe, P., Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
+        quote: <b>IEEE Transactions on Medical Imaging</b>, 44(5), 2079–2092, 2025. <a href="https://doi.org/10.1109/TMI.2025.3525581" target="_blank">DOI</a>
+
       - layout: top-middle
-        sub_title: A Meta-Learning Approach for Medical Image Registration 
-        caption: Park, H.*, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H. 
-        quote: IEEE 19th International Symposium on Biomedical Imaging (ISBI)
+        sub_title: Federated Learning with Knowledge Distillation for Multi-Organ Segmentation with Partially Labeled Datasets
+        caption: Kim, S.*, Park, H.*, Kang, M., Jin, K. H., Adeli, E., Pohl, K. M., & Park, S. H.
+        quote: <b>Medical Image Analysis</b>, 95, 103156, 2024. <a href="https://doi.org/10.1016/j.media.2024.103156" target="_blank">DOI</a>
+
+      - layout: top-middle
+        sub_title: A Meta-Learning Approach for Medical Image Registration
+        caption: Park, H.*, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H.
+        quote: <b>IEEE International Symposium on Biomedical Imaging (ISBI)</b>, 2022
 
   - title: Awards
     layout: text
@@ -98,7 +82,6 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -108,4 +91,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
