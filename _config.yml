@@ -21,11 +21,11 @@ about_profile_image: images/hj_profile.jpg
 about_content: |
   Hi, my name is <mark>Heejung Park</mark>, and I am a Ph.D. candidate in the <a href="https://sites.google.com/view/mispl/home" target="_blank">Medical Image and Signal Processing Laboratory</a> at Daegu Gyeongbuk Institute of Science and Technology (DGIST), advised by <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Prof. Sang Hyun Park</a>.
 
-  My research focuses on privacy-preserving and data-efficient learning for medical image analysis. In particular, I study <mark>federated learning</mark>, <mark>semi-supervised learning</mark>, and <mark>retrieval-augmented learning</mark> for medical image segmentation under heterogeneous and limited-label environments.
+  My research focuses on privacy-preserving and data-efficient learning for medical image analysis. In particular, I study <mark>federated learning</mark> and <mark>semi-supervised learning</mark> for medical image segmentation under heterogeneous and limited-label environments.
 
   My broader research interests include medical image segmentation, medical image registration, and foundation models for medical AI.
 
-  Keywords: <mark>Federated Learning</mark>, <mark>Semi-Supervised Learning</mark>, <mark>Retrieval-Augmented Learning</mark>, <mark>Medical Image Analysis</mark>
+  Keywords: <mark>Federated Learning</mark>, <mark>Semi-Supervised Learning</mark>, <mark>Medical Image Analysis</mark>
 
 content:
   - title: Education
