@@ -91,6 +91,10 @@ content:
     content:
       - layout: left
         border: weak
+        sub_title: 2026.02
+        quote: <b>Best Research Award</b>, Department of Robotics and Mechatronics Engineering, DGIST.
+      - layout: left
+        border: weak
         sub_title: 2023
         quote: <b>Outstanding Presentation Award</b>, 37th Korean Society of Imaging Informatics in Medicine (KIISM).
 
