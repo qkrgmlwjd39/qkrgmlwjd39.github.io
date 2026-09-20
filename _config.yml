@@ -47,18 +47,6 @@ content:
         border: weak
         sub_title: 2024.07 - 2024.12
         quote: <b>Visiting Student Researcher</b>, Department of Psychiatry and Behavioral Sciences, Stanford University, USA. Supervised by Prof. Kilian M. Pohl and Prof. Ehsan Adeli, <a href="https://cnslab.stanford.edu/" target="_blank">CNS Lab</a>.
-      - layout: left
-        border: weak
-        sub_title: 2020.03 - 2020.12
-        quote: <b>Research and Education Tutor</b>, Daegu Il Science High School, South Korea.<br>Denoising low-dose CT images to high-dose CT using self-supervised learning.
-      - layout: left
-        border: weak
-        sub_title: 2019.06 - 2019.07
-        quote: <b>Research Intern</b>, Medical Image and Signal Processing Lab (MISPL), DGIST, South Korea.<br>Blood vessel and lesion extraction from OCT-A images using deep learning.
-      - layout: left
-        border: weak
-        sub_title: 2017.03 - 2017.12
-        quote: <b>Undergraduate Group Research Program (UGRP)</b>, <a href="http://abc.dgist.ac.kr/" target="_blank">ABC Lab</a>, DGIST, South Korea.<br>Development of an automatic inspection system for circadian, postural, and social behavior using Arduino.
 
   - title: Publications
     layout: list
@@ -84,13 +72,25 @@ content:
         caption: Park, H.*, Lee, G. M.*, Kim, S., Ryu, G. H., Jeong, A., Sagong, M., & Park, S. H.
         quote: <b>IEEE International Symposium on Biomedical Imaging (ISBI)</b>, 2022
 
-  - title: Awards & Grant
+  - title: Research Projects
     layout: list
     content:
       - layout: left
         border: weak
         sub_title: 2025.09 - 2026.08
-        quote: <b>Research Grant</b>, National Research Foundation of Korea (NRF) Basic Science Research Program, Ministry of Education.<br>검색 증강 기반 준지도 연합학습을 활용한 의료 영상 영역화 프레임워크 개발
+        quote: <b>Principal Investigator, Ph.D. Student Research Grant</b>, National Research Foundation of Korea (NRF) Basic Science Research Program, Ministry of Education.<br>Development of a Framework for Medical Image Segmentation using Retrieval-Augmented Semi-Supervised Federated Learning.
+
+  - title: Patents
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        sub_title: 2025.07
+        quote: <b>Method and Apparatus for Generating an Image Registration Model Based on Meta-Learning</b><br>Korean Patent No. 10-2833517 (Application No. 10-2021-0144155). Registered July 9, 2025.<br>Inventors: Sang Hyun Park, Soopil Kim, Heejung Park, and Gyeongmin Lee.
+
+  - title: Awards
+    layout: list
+    content:
       - layout: left
         border: weak
         sub_title: 2023
